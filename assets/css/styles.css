@@ -14,3 +14,14 @@ main {
   padding: 10px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.356);
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: greenyellow;
+  transition: .4s;
+}
+
